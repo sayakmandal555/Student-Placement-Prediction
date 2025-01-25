@@ -31,8 +31,12 @@ student-placement-prediction/
 ├── student_placement.pkl      
 ├── templates/                 
 │   ├── index.html           
-│   ├── placed.html           
-│   └── not_placed.html                
+│   ├── placed.html          
+│   └── not_placed.html      
+├── static/                   
+│   └── style.css             
+└── requirements.txt          
+               
 
 
 ### Install Dependencies
