@@ -44,7 +44,8 @@ student-placement-prediction/
 First, clone the repository:
 
 git clone https://github.com/your-username/student-placement-prediction.git
-cd student-placement-prediction
+
+
 Then, install the required dependencies:
 
 
