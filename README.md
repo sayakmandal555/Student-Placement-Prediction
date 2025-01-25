@@ -27,13 +27,12 @@ To run the application, you'll need the following:
 ## Directory Structure
 
 student-placement-prediction/
-├── app.py                    # Flask application script
-├── student_placement.pkl      # Pre-trained model file
-├── templates/                 # Folder for HTML templates
-│   ├── index.html            # Form for user input
-│   ├── placed.html           # Page shown for placed students
-│   └── not_placed.html       # Page shown for non-placed students
-└── requirements.txt           # List of Python dependencies
+├── app.py                    
+├── student_placement.pkl      
+├── templates/                 
+│   ├── index.html           
+│   ├── placed.html           
+│   └── not_placed.html                
 
 
 ### Install Dependencies
