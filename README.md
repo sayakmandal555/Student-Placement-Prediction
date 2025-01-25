@@ -35,17 +35,14 @@ student-placement-prediction/
 │   └── not_placed.html       # Page shown for non-placed students
 └── requirements.txt           # List of Python dependencies
 
+
 ### Install Dependencies
 
 First, clone the repository:
 
-```bash
 git clone https://github.com/your-username/student-placement-prediction.git
 cd student-placement-prediction
 Then, install the required dependencies:
-```bash
-pip install -r requirements.txt
-This will install Flask, Scikit-learn, Numpy, and other necessary dependencies.
 
 
 ## Acknowledgments
