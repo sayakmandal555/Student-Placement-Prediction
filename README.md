@@ -35,8 +35,7 @@ cd student-placement-prediction
 Then, install the required dependencies:
 pip install -r requirements.txt
 
-
-##Setup
+**###Setup**
 Clone the repository to your local machine:
 git clone https://github.com/your-username/student-placement-prediction.git
 
